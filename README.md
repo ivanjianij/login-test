@@ -73,7 +73,16 @@ Follow these steps to set up and run the project:
   ```http
   GET http://localhost:8081/oauth2/authorization/google
   ```  
-
+- Success should redirect you to the following url where it should display message and store in database
+```json
+{
+    "message": "Login successful",
+    "token": "token", 
+    "email": "email", 
+    "name": "name of user"
+}
+```
+http://localhost:8081/login/oauth2/code/google?state=.....
 ---
 
 ## Notes  
