@@ -1,8 +1,8 @@
 .idea
 .vscode
-login_test_backend/loginTestBackend/pgdata
-login_test_backend/loginTestBackend/target
-login_test_backend/loginTestBackend/.env
-login_test_backend/loginTestBackend/.mvn
-login_test_backend/loginTestBackend/.idea
-login_test_backend/loginTestBackend/.vscode
+login_test_backend/pgdata
+login_test_backend/target
+login_test_backend/.env
+login_test_backend/.mvn
+login_test_backend/.idea
+login_test_backend/.vscode
